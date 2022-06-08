@@ -1,5 +1,5 @@
 # Hi, my name is Sergei
-## I'm a young newbe developer practesing front-end
+## I'm a young newbee developer practesing front-end
 
 ## Technologise I use:
 * ### ***HTML5***
