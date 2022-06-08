@@ -1,6 +1,6 @@
-# Hi, my name is Sergei
-## I'm a young newbee developer practicing front-end
-
+# **Hi, my name is Sergei**
+### I'm a young newbee developer practicing front-end
+___
 ## Technologies I use:
 ____
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&logoColor=e56229)
@@ -12,4 +12,4 @@ Currently just trying to find my place in this world
 
 ### Anyway, welcome to my profile! <3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
