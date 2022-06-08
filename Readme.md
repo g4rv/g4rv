@@ -1,11 +1,11 @@
 # Hi, my name is Sergei
-## I'm a young newbee developer practesing front-end
+## I'm a young newbee developer practicing front-end
 
-## Technologise I use:
+## Technologies I use:
 * ### ***HTML5***
 * ### ***CSS/SCSS***
 * ### ***JS***
 
-## Currently just trying find my place in this world
+## Currently just trying to find my place in this world
 
-## Anyway, welcome on my profile! <3
+## Anyway, welcome to my profile! <3
