@@ -5,7 +5,7 @@
 ____
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&logoColor=e56229)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=2965f1)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=Scss&logoColor=ce679a)
+![SCSS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=Sass&logoColor=ce679a)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000?style=for-the-badge&logo=JavaScript&logoColor=efd81d)
 
 Currently just trying to find my place in this world
