@@ -1,4 +1,4 @@
-# **Hi, my name is Sergei**
+# **Hi, my name is Serge**
 ### I'm a young newbee developer practicing front-end
 ___
 ## Technologies I use:
