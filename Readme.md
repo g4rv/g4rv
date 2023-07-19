@@ -20,7 +20,6 @@ ___
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
 ___
-
 ### Welcome to my profile! <3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
