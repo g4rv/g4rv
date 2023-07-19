@@ -1,6 +1,7 @@
 # **Hi, my name is Serge**
 ### I'm a front-end developer
 ___
+
 ## Tech stack:
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,6 +19,7 @@ ___
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
 ___
 
 ### Welcome to my profile! <3
