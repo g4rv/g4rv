@@ -9,6 +9,8 @@ ___
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-000?style=for-the-badge&logo=TypeScript&logoColor=efd81d)
 ___
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 ### Welcome to my profile! <3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
