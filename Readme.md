@@ -2,14 +2,23 @@
 ### I'm a front-end developer
 ___
 ## Tech stack:
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&logoColor=e56229)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=2965f1)
-![SCSS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=Sass&logoColor=ce679a)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000?style=for-the-badge&logo=JavaScript&logoColor=efd81d)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-000?style=for-the-badge&logo=TypeScript&logoColor=efd81d)
-___
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<br />
+
+## In progress...
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+___
 
 ### Welcome to my profile! <3
 
