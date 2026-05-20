@@ -21,4 +21,4 @@
 
 ### Welcome to my profile! <3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv)](https://github.com/anuraghazra/github-readme-stats)
