@@ -1,52 +1,45 @@
-<div align="center">
+ <h2 align="center">Hi, I'm Serhii 👋</h2>
+  <p align="center">Front-end developer · React · Next.js · TypeScript</p>
 
-  # Serhii Volskyi
+  <br />
 
-  [![Typing
-  SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C
-  8EBF&center=true&width=460&lines=Front-end+developer;React+%26+Next.js+%7C+TypeScript
-  +%7C+Tailwind;Building+clean+%26+fast+interfaces)](https://git.io/typing-svg)
+  **Stack**
 
-  </div>
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/typescript/typescript-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/javascript/javascript-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/react/react-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/nextjs/nextjs-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/html5/html5-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/css3/css3-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/sass/sass-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/figma/figma-original.svg" />
 
-  ---
+  <br clear="left" /><br />
 
-  ### Stack
+  **Learning**
 
-  <p>
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/type
-  script/typescript-original.svg" title="TypeScript" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java
-  script/javascript-original.svg" title="JavaScript" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reac
-  t/react-original.svg" title="React" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next
-  js/nextjs-original.svg" title="Next.js" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tail
-  windcss/tailwindcss-original.svg" title="Tailwind CSS" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html
-  5/html5-original.svg" title="HTML5" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3
-  /css3-original.svg" title="CSS3" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass
-  /sass-original.svg" title="Sass" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figm
-  a/figma-original.svg" title="Figma" />
-  </p>
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/redux/redux-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/threejs/threejs-original.svg" />
+  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
+  /icons/postgresql/postgresql-original.svg" />
 
-  ### Learning
-
-  <p>
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redu
-  x/redux-original.svg" title="Redux" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thre
-  ejs/threejs-original.svg" title="Three.js" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/post
-  gresql/postgresql-original.svg" title="PostgreSQL" />
-  </p>
+  <br clear="left" /><br />
 
   ---
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,is
-  sues&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/anuraghazra
-  /github-readme-stats)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=g4rv&hide=prs,issues&
+  show_icons=true&theme=nightowl&hide_border=true" />
+  </p>
