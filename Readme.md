@@ -1,39 +1,41 @@
- <h2 align="center">Hi, I'm Serhii 👋</h2>
+<h2 align="center">Hi, I'm Serhii 👋</h2>
   <p align="center">Front-end developer · React · Next.js · TypeScript</p>
 
   <br />
 
   **Stack**
 
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/typescript/typescript-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/javascript/javascript-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/react/react-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/nextjs/nextjs-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/html5/html5-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/css3/css3-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/sass/sass-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/figma/figma-original.svg" />
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon
+  s/typescript/typescript-original.svg" />
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon
+  s/javascript/javascript-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+  />
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon
+  s/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
   <br clear="left" /><br />
 
   **Learning**
 
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/redux/redux-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/threejs/threejs-original.svg" />
-  <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest
-  /icons/postgresql/postgresql-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" width="32px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+   />
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon
+  s/postgresql/postgresql-original.svg" />
 
   <br clear="left" /><br />
 
